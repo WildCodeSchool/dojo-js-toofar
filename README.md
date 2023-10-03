@@ -4,10 +4,6 @@ Given a distance in KM, a time in minutes and an assumed walking speed of 1km/ho
 
 Return true of false.
 
-Tips:
-
-Normalise data at the earliest opportunity.
-Use unixtime!
 
 Optional: Improve your code to support returning a third state, whereby the person can cover the distance if they run. Assume a running speed of 2km/hour.
 
